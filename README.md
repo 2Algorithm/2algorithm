@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Knows-a-bit-of JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2Algorithm&no-frame=trueno-bg=true" alt="3kh0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2Algorithm&no-frame=trueno-bg=true" alt="2Algorithm" /></a> </p>
 
 - 🔭 I’m currently working on whatever!
 
