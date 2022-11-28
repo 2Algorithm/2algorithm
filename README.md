@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning coding.
 
-- 👨‍💻 All of my projects are available at my [repos tab](https://github.com/3kh0?tab=repositories).
+- 👨‍💻 All of my projects are available at my [repos tab](https://github.com/2Algorithm).
 
 
 - ⚡ Fun fact [hooooooooo](https://hooooooooo.com/)!
